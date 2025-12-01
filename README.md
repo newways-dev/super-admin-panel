@@ -43,13 +43,6 @@ This project was created as a learning exercise for a freelance assignment, demo
 - **Company Settings**: Configure company profile and preferences
 - **Job Selection**: Browse and select available job positions
 - **Contract Creation**: Generate contracts for employees using templates
-
-### 🎨 User Experience
-- Modern, responsive UI built with CoreUI
-- Intuitive navigation and sidebar menu
-- Clean, professional design
-- Smooth user interactions
-
 ---
 
 ## 🛠 Tech Stack
