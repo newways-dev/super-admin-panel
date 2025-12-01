@@ -127,55 +127,6 @@ super-admin-panel/
 └── package.json
 ```
 
----
-
-## 🚀 Installation
-
-### Prerequisites
-- Node.js (≥10)
-- npm (≥6) or yarn
-- Firebase project with Firestore, Authentication, and Storage enabled
-
-### Steps
-
-1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd super-admin-panel
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
-
-3. **Configure Firebase**
-   - Create a `.env` file in the root directory
-   - Add your Firebase configuration:
-   ```env
-   REACT_APP_FIREBASE_API_KEY=your_api_key
-   REACT_APP_FIREBASE_AUTH_DOMAIN=your_auth_domain
-   REACT_APP_FIREBASE_PROJECT_ID=your_project_id
-   REACT_APP_FIREBASE_STORAGE_BUCKET=your_storage_bucket
-   REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
-   REACT_APP_FIREBASE_APP_ID=your_app_id
-   REACT_APP_FIREBASE_MEASUREMENT_ID=your_measurement_id
-   ```
-
-4. **Start the development server**
-   ```bash
-   npm start
-   # or
-   yarn start
-   ```
-
-5. **Open your browser**
-   - Navigate to `http://localhost:3000`
-
----
-
 ## 💻 Usage
 
 ### Test Credentials
@@ -191,15 +142,6 @@ Password: 123456
 Email: pepsi@gmail.com
 Password: 123456
 ```
-
-### Available Scripts
-
-- `npm start` - Runs the app in development mode
-- `npm build` - Builds the app for production
-- `npm test` - Launches the test runner
-- `npm lint` - Runs ESLint to check code quality
-
----
 
 ## 🎯 Key Features Breakdown
 
@@ -225,19 +167,4 @@ Password: 123456
 - Environment variables for sensitive configuration
 
 ---
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
----
-
-## 👨‍💻 Development Notes
-
-This project was developed as a **learning assignment for a freelance client**. It demonstrates:
-- Modern React development patterns
-- State management with Redux Toolkit
-- Firebase integration (Firestore, Auth, Storage)
-- Component-based architecture
-- Responsive UI design with CoreUI
 
