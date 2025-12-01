@@ -1,4 +1,4 @@
-# 🎯 Super Admin Panel
+# Super Admin Panel
 
 <div align="center">
 
